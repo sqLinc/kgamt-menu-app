@@ -1,0 +1,39 @@
+
+<resources>
+    <string name="app_name">Столовая КГАМТ</string>
+    <string name="dish_tab">Блюда</string>
+    <string name="menu_tab">Меню на неделю</string>
+    <string name="extra">Дополнительно</string>
+    <string name="categories">Категории</string>
+    <string name="drinks">Напитки</string>
+    <string name="bakery">Выпечка</string>
+    <string name="first">Первое</string>
+    <string name="second">Второе</string>
+    <string name="side">Гарнир</string>
+    <string name="salad">Салаты</string>
+    <string name="all">Все блюда</string>
+    <string name="other">Прочее</string>
+    <string name="settings">Настройки</string>
+    <string name="help_and_feedback">Помощь и обратная связь</string>
+    <string name="cost">Стоимость</string>
+    <string name="quantity_per_serving">Количество в порции</string>
+    <string name="kcal">Каллорийность</string>
+    <string name="protein">Белки</string>
+    <string name="fats">Жиры</string>
+    <string name="carbs">Углеводы</string>
+    <string name="category">Категория</string>
+    <string name="app_theme">Тема приложения</string>
+    <string name="rub">рублей</string>
+    <string name="gr">гр</string>
+    <string name="kcal_per_100">ккал/100гр</string>
+    <string name="error_dishes">Ошибка во время загрузки блюд</string>
+    <string name="error_menu">Ошибка во время загрузки меню</string>
+    <string name="retry">Повторить</string>
+    <string name="kgamt_dialog_title">Помощь и обратная связь</string>
+    <string name="kgamt_dialog_text">Перейти на сайт КГАМТ?</string>
+    <string name="dialog_confirm">Да</string>
+    <string name="dialog_dismiss">Нет</string>
+
+
+
+</resources>
