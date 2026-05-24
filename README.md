@@ -1,6 +1,6 @@
 # 📚 Canteen mobile app
 Modern Android application for students to see an actual menu of an educational institution
----
+
 
 ## ✨ Features
 
