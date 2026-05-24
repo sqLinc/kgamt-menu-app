@@ -4,14 +4,14 @@ Modern Android application for students to see an actual menu of an educational 
 
 ## ✨ Features
 
-- JWT Authentication with password
-- Browse all available dishes and menu
-- Making food requests for students
-- Changing settings including change of language and app theme
-- Logging out of account
-- Checking request history
+- JWT Authentication
+- Browse daily menu and dishes
+- Food request system
+- Request history
 - Filtering dishes by category
-
+- App theme and language (russian & english) switching
+- Persistent user session using DataStore
+  
 ---
 
 ## 🏗 Architecture
