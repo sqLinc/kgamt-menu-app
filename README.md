@@ -63,11 +63,11 @@ The project is built using **Clean Architecture** with clear separation of conce
 
 | Login | Main Screen | Details |
 |------|----------|--------|
-| ![](https://github.com/sqLinc/kgamt-menu-app/blob/main/screenshots/login_mobile.png) | ![](https://github.com/sqLinc/kgamt-menu-app/blob/main/screenshots/main_screen_mobile.png) | ![](https://github.com/sqLinc/kgamt-menu-app/blob/main/screenshots/detail_screen_mobile.png) |
+| ![](screenshots/login_mobile.jpg) | ![](screenshots/main_screen_mobile.jpg) | ![](screenshots/detail_screen_mobile.jpg) |
 
 | Request | Settings | Request History |
 |---------|---------|--------|
-| ![](https://github.com/sqLinc/kgamt-menu-app/blob/main/screenshots/making_request.png) | ![](https://github.com/sqLinc/kgamt-menu-app/blob/main/screenshots/settings_mobile.png) | ![](https://github.com/sqLinc/kgamt-menu-app/blob/main/screenshots/request_history_mobile.png) | |
+| ![](screenshots/making_request.jpg) | ![](screenshots/settings_mobile.jpg) | ![](screenshots/request_history_mobile.jpg) | |
 
 
 
